@@ -4,5 +4,5 @@
   (println "Hello, Clojure") ; return nil
   ) 
 
-(print-hello) 
+(print-hello) ; 함수 호출
 

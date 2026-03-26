@@ -1,4 +1,4 @@
-# Clojure by Tough Cookie
+# Clojure Study
 
 > `Clojure CLI + VS Code + Calva`
 
@@ -12,7 +12,7 @@ git clone https://github.com/alsh0807/Python-by-Tough-Cookie.git
 - JDK
 - Clojure CLI
 - VS Code
-- Calva extension
+- Calva: A Clojure & ClojureScript IDE in Visual Studio Code
 
 ## 로컬 실행
 
