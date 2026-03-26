@@ -1,14 +1,27 @@
-pom.xml
-pom.xml.asc
-*.jar
+# Build outputs
 *.class
-/lib/
+*.jar
 /classes/
+/lib/
 /target/
+
+# Signing artifacts
+pom.xml.asc
+
+# Leiningen
 /checkouts/
 .lein-deps-sum
-.lein-repl-history
-.lein-plugins/
 .lein-failures
-.nrepl-port
+.lein-plugins/
+.lein-repl-history
+
+# Clojure CLI
 .cpcache/
+
+# Calva / nREPL
+.calva/
+.nrepl-port
+
+# Editor / language server
+.clj-kondo/
+.lsp/
