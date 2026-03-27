@@ -4,7 +4,7 @@
 
 ## 시작하기
 ```git
-git clone https://github.com/alsh0807/Python-by-Tough-Cookie.git
+git clone https://github.com/alsh0807/Clj-Study.git
 ```
 
 필수 설치 항목:
@@ -25,7 +25,7 @@ clj
 REPL에서 예제를 직접 실행할 수 있습니다.
 
 ```clojure
-(+ 1 2 3)
+(println "Hello, Clojure")
 ```
 
 ## VS Code + Calva
